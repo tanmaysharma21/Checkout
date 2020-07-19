@@ -1,3 +1,6 @@
 [submodule "Checkout/paysafe_sdk_csharp"]
 	path = Checkout/paysafe_sdk_csharp
 	url = https://github.com/paysafegroup/paysafe_sdk_csharp.git
+[submodule "Checkout/Checkout/paysafe_sdk_csharp"]
+	path = Checkout/Checkout/paysafe_sdk_csharp
+	url = https://github.com/paysafegroup/paysafe_sdk_csharp.git
